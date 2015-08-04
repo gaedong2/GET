@@ -13,6 +13,7 @@ public class HelloController {
 		model.addAttribute("message", "Hello world!");
 
 		System.out.println("eeeeeeee");
+		System.out.println("다시수정");
 		return "hello";
 	}
 }
